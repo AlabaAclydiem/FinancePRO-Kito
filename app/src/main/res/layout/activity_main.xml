@@ -18,7 +18,7 @@
         android:layout_height="wrap_content"
         android:background="#654545"
         android:fontFamily="monospace"
-        android:text="Goodbuy, Anton Scherba!"
+        android:text="Goodbuy, Alexander Rodionov!"
         android:textColor="#9E9E9E"
         android:textSize="44sp" />
 
